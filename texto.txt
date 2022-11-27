@@ -1,0 +1,4 @@
+Ola, paulo.
+Leia esse texto linha por linha
+usando java e se orientando apeanas pela documentação.
+Nada de olhar como faze em blogs viu!

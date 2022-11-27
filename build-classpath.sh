@@ -1,0 +1,2 @@
+export CLASSPATH=$(PWD)/output/;
+
